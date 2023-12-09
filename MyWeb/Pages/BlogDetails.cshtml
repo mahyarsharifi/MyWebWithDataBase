@@ -1,0 +1,17 @@
+﻿@page
+@model MyWeb.Pages.BlogDetailsModel
+@{
+    ViewData["Title"] = Model.Blog.Title;
+}
+
+<div class="col-12 mb-3">
+    <h1>@Model.Blog.Title</h1>
+</div>
+<div class="col-12 mb-3">
+    <img src="@Model.Blog.Picture" alt="@Model.Blog.PictureAlt" title="@Model.Blog.PictureTitle" class="img-fluid">
+</div>
+<div class="col-12">
+    <p class="article-content">
+        @Model.Blog.Description
+    </p>
+</div>

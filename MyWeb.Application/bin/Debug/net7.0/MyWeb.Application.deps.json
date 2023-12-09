@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MyWeb.Application/1.0.0": {
+        "dependencies": {
+          "MyWeb.Application.Contracts": "1.0.0",
+          "MyWeb.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MyWeb.Application.dll": {}
+        }
+      },
+      "MyWeb.Application.Contracts/1.0.0": {
+        "runtime": {
+          "MyWeb.Application.Contracts.dll": {}
+        }
+      },
+      "MyWeb.Domain/1.0.0": {
+        "runtime": {
+          "MyWeb.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyWeb.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyWeb.Application.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyWeb.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

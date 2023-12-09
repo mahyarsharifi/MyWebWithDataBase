@@ -1,0 +1,88 @@
+﻿@page
+@model MyWeb.Pages.CreateProjectModel
+@{
+    ViewData["Title"] = "ایجاد پروژه";
+}
+
+<section class="cta-section theme-bg-light py-5">
+    <div class="container text-center single-col-max-width">
+        <h2 class="heading">ارتباط با من</h2>
+        <div class="intro">
+            <p>
+                شما می توانید از طریق فرم زیر با من ارتباط بگیرید. لطفا پس از پرکردن آیتم ها، پیغام مورد نظر را
+                نوشته و ارسال کنید.
+            </p>
+            <p>از طریق شبکه های اجتماعی با ما در ارتباط باشید</p>
+            <ul class="list-inline mb-0">
+                <li class="list-inline-item mb-3">
+                    <a class="twitter" href="#">
+                        <i class="fab fa-twitter fa-fw fa-lg"></i>
+                    </a>
+                </li>
+                <li class="list-inline-item mb-3">
+                    <a class="linkedin" href="#">
+                        <i class="fab fa-linkedin-in fa-fw fa-lg"></i>
+                    </a>
+                </li>
+                <li class="list-inline-item mb-3">
+                    <a class="github" href="#">
+                        <i class="fab fa-github-alt fa-fw fa-lg"></i>
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a class="instagram" href="#">
+                        <i class="fab fa-instagram fa-fw fa-lg"></i>
+                    </a>
+                </li>
+                <li class="list-inline-item mb-3">
+                    <a class="codepen" href="#">
+                        <i class="fab fa-codepen fa-fw fa-lg"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<div class="col-12 mb-3 text-center">
+    @if (Model.ErrorMessage != null)
+    {
+        <div class="alert alert-danger">
+            @Model.ErrorMessage
+        </div>
+    }
+</div>
+
+<section class="contact-section px-3 py-5 p-md-5">
+    <div class="container">
+        <form id="contact-form" class="contact-form col-lg-8 mx-lg-auto" method="post">
+            <h3 class="text-center mb-3">ایجاد پروژه</h3>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label class="sr-only" asp-for="@Model.Command.Name"></label>
+                    <input class="form-control" asp-for="@Model.Command.Name" placeholder="نام پروژه">
+                    <span asp-validation-for="@Model.Command.Name" class="text-danger"></span>
+                </div>
+                <div class="form-group col-md-6">
+                    <label class="sr-only" asp-for="@Model.Command.Picture"></label>
+                    <input class="form-control" asp-for="@Model.Command.Picture" placeholder="مسیر عکس">
+                    <span asp-validation-for="@Model.Command.Picture" class="text-danger"></span>
+                </div>
+                <div class="form-group col-md-6">
+                    <label class="sr-only" asp-for="@Model.Command.PictureAlt"></label>
+                    <input class="form-control" asp-for="@Model.Command.PictureAlt" placeholder="Alt عکس">
+                </div>
+                <div class="form-group col-md-6">
+                    <label class="sr-only" asp-for="@Model.Command.PictureTitle"></label>
+                    <input class="form-control" asp-for="@Model.Command.PictureTitle" placeholder="Title عکس">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="sr-only" asp-for="@Model.Command.Description"></label>
+                <textarea rows="5" type="text" class="form-control" asp-for="@Model.Command.Description" placeholder="توضیحات ..."></textarea>
+                <span asp-validation-for="@Model.Command.Description" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-block btn-primary py-2">ثبت</button>
+        </form>
+    </div>
+</section>

@@ -1,0 +1,12 @@
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Domain\bin\Debug\net7.0\MyWeb.Domain.deps.json
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Domain\bin\Debug\net7.0\MyWeb.Domain.dll
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Domain\bin\Debug\net7.0\MyWeb.Domain.pdb
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Domain\obj\Debug\net7.0\MyWeb.Domain.csproj.AssemblyReference.cache
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Domain\obj\Debug\net7.0\MyWeb.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Domain\obj\Debug\net7.0\MyWeb.Domain.AssemblyInfoInputs.cache
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Domain\obj\Debug\net7.0\MyWeb.Domain.AssemblyInfo.cs
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Domain\obj\Debug\net7.0\MyWeb.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Domain\obj\Debug\net7.0\MyWeb.Domain.dll
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Domain\obj\Debug\net7.0\refint\MyWeb.Domain.dll
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Domain\obj\Debug\net7.0\MyWeb.Domain.pdb
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Domain\obj\Debug\net7.0\ref\MyWeb.Domain.dll

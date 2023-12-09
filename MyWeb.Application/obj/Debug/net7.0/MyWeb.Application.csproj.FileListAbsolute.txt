@@ -1,0 +1,17 @@
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Application\bin\Debug\net7.0\MyWeb.Application.deps.json
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Application\bin\Debug\net7.0\MyWeb.Application.dll
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Application\bin\Debug\net7.0\MyWeb.Application.pdb
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Application\bin\Debug\net7.0\MyWeb.Application.Contracts.dll
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Application\bin\Debug\net7.0\MyWeb.Domain.dll
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Application\bin\Debug\net7.0\MyWeb.Application.Contracts.pdb
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Application\bin\Debug\net7.0\MyWeb.Domain.pdb
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Application\obj\Debug\net7.0\MyWeb.Application.csproj.AssemblyReference.cache
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Application\obj\Debug\net7.0\MyWeb.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Application\obj\Debug\net7.0\MyWeb.Application.AssemblyInfoInputs.cache
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Application\obj\Debug\net7.0\MyWeb.Application.AssemblyInfo.cs
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Application\obj\Debug\net7.0\MyWeb.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Application\obj\Debug\net7.0\MyWeb.Application.csproj.CopyComplete
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Application\obj\Debug\net7.0\MyWeb.Application.dll
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Application\obj\Debug\net7.0\refint\MyWeb.Application.dll
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Application\obj\Debug\net7.0\MyWeb.Application.pdb
+C:\Users\Mahyar\OneDrive\Desktop\Projects\MyWeb\MyWeb.Application\obj\Debug\net7.0\ref\MyWeb.Application.dll
